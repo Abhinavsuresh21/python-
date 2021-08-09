@@ -1,0 +1,21 @@
+name=input("Enter name:")
+salary=int(input("Enter salary:"))
+petrolallo=int(input("Enter petrolallo:"))
+foodallo=int(input("Enter foodallo:"))
+rentallo=int(input("Enter rentallo:"))
+emiallo=int(input("Enter emiallo:"))
+groceryallo=int(input("Enter groceryallo:"))
+medicalallo=int(input("Enter medicalallo:"))
+expense=petrolallo+foodallo+rentallo+emiallo+groceryallo+medicalallo;
+savings=salary-expense;
+print("name:",name)
+print("salary:",salary)
+print("petrolallo:",petrolallo)
+print("foodallo:",foodallo)
+print("rentallo:",rentallo)
+print("emiallo:",emiallo)
+print("groceryallo:",groceryallo)
+print("medicalallo:",medicalallo)
+print("expense:",expense)
+print("savings:",savings)
+
