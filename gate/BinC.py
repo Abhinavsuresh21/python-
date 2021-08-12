@@ -1,0 +1,5 @@
+a=int(input("Enter A value:"))
+BinC=(~a)
+print("\t\t output \n\n")
+print("Entered A value:",a)
+print("BinC is:",BinC)
