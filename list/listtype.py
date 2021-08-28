@@ -1,2 +1,2 @@
 thislist=["apple","banana","grapes"]
-print(thislist)
+print(type(thislist))
